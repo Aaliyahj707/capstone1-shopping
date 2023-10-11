@@ -47,3 +47,21 @@ body{
     left: auto;
     top: 30%;
 }
+
+.modal-content{
+    background-color: white;
+}
+
+.modal-body{
+    background-color: rgb(167, 158, 158);
+}
+
+.btn-primary{
+    background-color: black;
+    border: 0;
+}
+
+.btn-primary:hover{
+    background-color: black;
+    border: 0;
+}
