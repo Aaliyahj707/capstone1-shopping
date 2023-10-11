@@ -3,18 +3,31 @@ body{
 }
 .name{
     color: white;
-    font-size: larger;
+    font-size: x-large;
 }
-.page-width{
+.annoucement-bar{
     display: inline-block;
   height: 100%;
   text-align: center;
   width: 100%;
-  background: black;
-  color: white;
+  background: rgb(167, 158, 158);
+  color: rgb(209, 204, 204);
   font-family: Arial, sans;
   margin: 0;
   padding: 0;
   vertical-align: middle;
   font-size: 0.8em;
+}
+.annoucement-bari{
+    display: inline-block;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    background: rgb(167, 158, 158);
+    color: rgb(209, 204, 204);
+    font-family: Arial, sans;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    font-size: 0.8em;
 }
