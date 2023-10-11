@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.name{
+    color: white;
+    font-size: larger;
+}
+.page-width{
+    display: inline-block;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+  background: black;
+  color: white;
+  font-family: Arial, sans;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  font-size: 0.8em;
+}
