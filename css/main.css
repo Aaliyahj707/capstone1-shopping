@@ -43,3 +43,22 @@ body {
 #R {
     color: white;
 }
+
+.gif{
+    position: absolute;
+    right: auto;
+    top: 15%;
+    width: 60%;
+}
+.blocktext1{
+    text-align: left;
+    color: white;
+    margin-top: 10%; 
+    margin-bottom: 50%;
+}
+.blocktext2{
+    color: white;
+    margin-left: 70%;
+    margin-top: 12%;
+    width: 8em
+}

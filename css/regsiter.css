@@ -61,7 +61,7 @@ body{
 }
 
 .form-wrap{
-    background: #000000;
+    background: rgb(209, 204, 204);
     padding: 15px 25px;
     border-top: 4px solid;
     border-radius: 05px;
