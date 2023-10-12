@@ -66,3 +66,7 @@ body{
     background-color: black;
     border: 0;
 }
+
+.highlighted-text{
+    color: #7794fb;
+}
