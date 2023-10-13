@@ -47,8 +47,8 @@ body {
 .gif{
     position: absolute;
     right: auto;
-    top: 0%;
-    width: 70%;
+    top: 15%;
+    width: 60%;
 }
 .blocktext1{
     text-align: center;
@@ -61,4 +61,4 @@ body {
     margin-left: 70%;
     margin-top: 12%;
     width: 8em
-}SS
+}
