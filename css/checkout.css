@@ -43,3 +43,33 @@ body{
     color: white;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: ; 
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    min-height: 90vh;
+    padding-bottom: 70px;
+}
+.container form{
+    padding: 20px;
+    width: 700px;
+    background: rgb(167, 158, 158);
+    box-shadow: 0 5px 10px black;
+}
+.container form .row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.pay{
+    align-items: ;
+}
