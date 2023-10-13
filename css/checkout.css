@@ -1,3 +1,6 @@
+body{
+    background-color: white;
+}
 .name {
     color: black;
     font-size: x-large;
@@ -39,3 +42,4 @@
 #R {
     color: white;
 }
+
